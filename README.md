@@ -11,8 +11,8 @@ Code commande RS: 185-4749 <br>
 
 Farnell : <br>
 REF : VJ1206A220JXEAC &nbsp; / Code Commande : 2896762 / Quantité : 2 (Capacitor) <br>
-REF : DFR0067 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / Code Commande : 2946103 / Quantité : 1 (Temp./Humidity Sensor) <br>
+REF : DFR0067 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / Code Commande : 2946103 / Quantité : 1 (Temp./Humidity Sensor) <br>
 REF : MDOB128064V2V-WI &nbsp; / Code Commande : 3154943 / Quantité : 1 (OLED Display) <br>
-REF : FIT0539 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / Code Commande : 3974112 / Quantité : 1 (Wired Battery Case) <br>
+REF : FIT0539 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / Code Commande : 3974112 / Quantité : 1 (Wired Battery Case) <br>
 
 <img width="1067" height="698" alt="image" src="https://github.com/user-attachments/assets/41ef7d07-d79e-4976-8edf-37c266ca1264"/>
