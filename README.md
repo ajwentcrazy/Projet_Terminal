@@ -2,13 +2,6 @@
 
 Components :
 
-Code commande : <br>
-Code commande RS: 216-3753 <br>
-Code commande RS: 225-6202 <br> 
-Code commande RS: 185-4749 <br>
-
-<br>
-
 Farnell : <br>
 (Temp./Humidity Sensor) REF : DFR0067 / Code Commande : 2946103 / Quantité : 1 <br>
 (OLED Display) REF : MDOB128064V2V-WI / Code Commande : 3154943 / Quantité : 1 <br>
