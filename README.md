@@ -9,9 +9,9 @@ Wired Battery Case: <a href="https://fr.rs-online.com/web/p/porte-piles/1854749?
 Code commande unique : <br>
 Code commande RS: 216-3753 <br>
 Code commande RS: 225-6202 <br> 
-Code commande RS: 185-4749
-
-
+Code commande RS: 185-4749 <br>
+<br>
+Farnell : <br>
 REF : VJ1206A220JXEAC / Code Commande : 2896762
 
 <img width="1067" height="698" alt="image" src="https://github.com/user-attachments/assets/41ef7d07-d79e-4976-8edf-37c266ca1264" />
